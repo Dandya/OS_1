@@ -1,0 +1,7 @@
+*~
+*.so
+*.out
+*.log
+.*
+!.gitignore
+!.keep
